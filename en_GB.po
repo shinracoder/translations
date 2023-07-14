@@ -9,11 +9,11 @@ msgstr ""
 
 #: 
 msgid "triggers"
-msgstr "Triggers"
+msgstr "Triggers Test"
 
 #: 
 msgid "create-behavioural-action"
-msgstr "Create Behavioural Action"
+msgstr "Create Behavioural Action Test"
 
 #: 
 msgid "You do not have permissions to create a coupon on a wallet."
