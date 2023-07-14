@@ -46,8 +46,9 @@ msgstr "Suspend Account / %s"
 msgid "Cancel Account / %s"
 msgstr "Cancel Account / %s"
 
+#. This is a test comment
 #: 
 msgctxt "New Translation"
 msgid "new-translation"
-msgstr ""
+msgstr "New Translation"
 
