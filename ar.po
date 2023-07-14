@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Testing\n"
+"Language: ar\n"
+
+#: 
+msgid "triggers"
+msgstr "محفزات"
+
+#: 
+msgid "create-behavioural-action"
+msgstr ""
+
+#: 
+msgid "You do not have permissions to create a coupon on a wallet."
+msgstr ""
+
+#: 
+msgid "Invalid state, please select a valid state from the dropdown"
+msgstr ""
+
+#: 
+msgid "Invalid status, please select a valid status from the dropdown"
+msgstr ""
+
+#: 
+msgid "View Account / %s"
+msgstr ""
+
+#: 
+msgid "Edit Account / %s"
+msgstr ""
+
+#: 
+msgid "Suspend Account / %s"
+msgstr ""
+
+#: 
+msgid "Cancel Account / %s"
+msgstr ""
+
