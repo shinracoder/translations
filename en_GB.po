@@ -16,10 +16,6 @@ msgid "create-behavioural-action"
 msgstr "Create Behavioural Action FooBar"
 
 #: 
-msgid "new-translation"
-msgstr "New Translation"
-
-#: 
 msgid "You do not have permissions to create a coupon on a wallet."
 msgstr "You do not have permissions to create a coupon\n"
 "     on a wallet."
@@ -49,4 +45,9 @@ msgstr "Suspend Account / %s"
 #: 
 msgid "Cancel Account / %s"
 msgstr "Cancel Account / %s"
+
+#: 
+msgctxt "New Translation"
+msgid "new-translation"
+msgstr ""
 
