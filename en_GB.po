@@ -1,49 +1,45 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: en_GB.php conversion\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-05 14:58+0100\n"
-"PO-Revision-Date: 2023-07-05 14:58+0100\n"
-"Last-Translator: \n"
-"Language-Team: English\n"
-"Language: en\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Loco https://localise.biz\n"
-"X-Loco-Source-Locale: en\n"
-"X-Loco-Api-Version: 1.0.28 20230626-1"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Testing\n"
+"Language: en\n"
 
+#: 
 msgid "triggers"
-msgstr "Triggers"
+msgstr ""
 
+#: 
 msgid "create-behavioural-action"
-msgstr "Create Behavioural Action"
+msgstr ""
 
+#: 
 msgid "You do not have permissions to create a coupon on a wallet."
 msgstr ""
-"You do not have permissions to create a coupon\n"
-"     on a wallet."
 
+#: 
 msgid "Invalid state, please select a valid state from the dropdown"
 msgstr ""
-"Invalid state, please select a valid state from\n"
-"     the dropdown"
 
+#: 
 msgid "Invalid status, please select a valid status from the dropdown"
 msgstr ""
-"Invalid status, please select a valid status\n"
-"     from the dropdown"
 
+#: 
 msgid "View Account / %s"
-msgstr "View Account / %s"
+msgstr ""
 
+#: 
 msgid "Edit Account / %s"
-msgstr "Edit Account / %s"
+msgstr ""
 
+#: 
 msgid "Suspend Account / %s"
-msgstr "Suspend Account / %s"
+msgstr ""
 
+#: 
 msgid "Cancel Account / %s"
-msgstr "Cancel Account / %s"
+msgstr ""
+
