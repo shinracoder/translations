@@ -9,7 +9,7 @@ msgstr ""
 
 #: 
 msgid "triggers"
-msgstr ""
+msgstr "Triggers"
 
 #: 
 msgid "create-behavioural-action"
