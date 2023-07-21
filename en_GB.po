@@ -6,10 +6,13 @@ msgstr ""
 "X-Generator: POEditor.com\n"
 "Project-Id-Version: Testing\n"
 "Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: 
 msgid "triggers"
-msgstr "Triggers FooBar"
+msgid_plural "tiggers"
+msgstr[0] "Triggers FooBar"
+msgstr[1] "Triggers Plural"
 
 #: 
 msgid "create-behavioural-action"
