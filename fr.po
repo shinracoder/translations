@@ -5,53 +5,49 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: POEditor.com\n"
 "Project-Id-Version: Testing\n"
-"Language: en\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: fr\n"
 
 #: 
 msgid "triggers"
-msgid_plural "tiggers"
-msgstr[0] "Triggers FooBar"
-msgstr[1] "Triggers Plural"
+msgstr "Déclenche FooBar"
 
 #: 
 msgid "create-behavioural-action"
-msgstr "Create Behavioural Action FooBar"
+msgstr "Créer une FooBar d'action comportementale"
 
 #: 
 msgid "You do not have permissions to create a coupon on a wallet."
-msgstr "You do not have permissions to create a coupon\n"
-"     on a wallet."
+msgstr "Vous n'êtes pas autorisé à créer un coupon\n"
+"     sur un portefeuille."
 
 #: 
 msgid "Invalid state, please select a valid state from the dropdown"
-msgstr "Invalid state, please select a valid state from\n"
-"     the dropdown"
+msgstr "État non valide, veuillez sélectionner un état valide parmi\n"
+"     la liste déroulante"
 
 #: 
 msgid "Invalid status, please select a valid status from the dropdown"
-msgstr "Invalid status, please select a valid status\n"
-"     from the dropdown"
+msgstr "Statut invalide, veuillez sélectionner un statut valide\n"
+"     depuis le menu déroulant"
 
 #: 
 msgid "View Account / %s"
-msgstr "View Account / %s"
+msgstr "Afficher le compte / %s"
 
 #: 
 msgid "Edit Account / %s"
-msgstr "Edit Account / %s"
+msgstr "Modifier le compte / %s"
 
 #: 
 msgid "Suspend Account / %s"
-msgstr "Suspend Account / %s"
+msgstr "Suspendre le compte / %s"
 
 #: 
 msgid "Cancel Account / %s"
-msgstr "Cancel Account / %s"
+msgstr "Annuler le compte / %s"
 
-#. This is a test comment
 #: 
 msgctxt "New Translation"
 msgid "new-translation"
-msgstr "New Translation"
+msgstr "Nouvelle traduction"
 
